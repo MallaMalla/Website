@@ -1,0 +1,124 @@
+#tunniste
+{
+    background-image: url(tausta2.jpg);
+    background-color: #9cd9d3;
+    font-family: cursive;
+    text-shadow: 3px 3px 3px black;
+}
+
+#h
+{
+    color: #f2a7d8;
+    font-size: 56px;
+    font-weight: bolder;
+    margin: 16.5px;
+}
+
+#h2
+{
+    color: #f2a7d8;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#p
+{
+    color: #f2a7d8;
+    text-shadow: 1px 1px 1px black;
+    font-size: larger;
+}
+
+.nav
+{
+    background-color: #f2a7d8;
+    background-image: linear-gradient(#9cd9d3, #f2a7d8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#n
+{
+    color: #f2a7d8;
+    font-family: cursive;
+    font-size: larger;
+    text-shadow: 2px 2px 2px black;
+}
+
+.nav-item a:link, a:visited
+{
+    background-color: #f2a7d8;
+    background-image: linear-gradient(#9cd9d3, #f2a7d8);
+    color: #bf5471;
+}
+    
+.nav-item :hover, a:active
+{
+    background-color: #f2a7d8;
+    background-image: linear-gradient(#9cd9d3, #f2a7d8);
+    color: #9cd9d3 !important;
+}  
+
+.footer
+{
+    display: flex;
+    background-image: url(tausta2.jpg);
+    background-color: #9cd9d3;
+    color: #f2a7d8;
+    text-shadow: 1px 1px 1px black;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    font-family: cursive;
+}
+
+#texts
+{
+    color: black;
+    font-family: Quicksand, Lucida Console, monospace;
+    padding: 20px;
+}
+
+#texts2
+{
+    color: black;
+    font-family: Quicksand, Lucida Console, monospace;
+    padding: 20px;
+    text-align: center;
+}
+
+#texts3
+{
+    color: black;
+    font-family: Quicksand, Lucida Console, monospace;
+    padding: 5px;
+    text-align: center;
+}
+
+#texts4
+{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.img1 
+{
+    max-width: 30%;
+    height: auto;
+    padding: 10px;
+}
+
+.img2
+{
+    width: 30%;
+    height: auto;
+    padding: 30px;
+}
+
+.img3
+{
+    max-width: 20%;
+    height: auto;
+    padding: 5px;
+}
+
